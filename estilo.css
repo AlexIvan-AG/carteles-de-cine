@@ -1,0 +1,48 @@
+body{
+    background: green;
+}
+#hexa{
+    font-size: 1.05rem;
+    background-color: #6C0182;
+    padding: 10px;
+    color: #fff;
+}
+#hsl{
+    font-size: 1.05rem;
+    background-color: hsl(290, 98%, 26%);
+    padding: 10px;
+    color: hsl(0, 0%, 100%);
+}
+
+#rgb{
+    font-size: 1.05rem;
+    background-color: rgb(108, 1, 130);
+    padding: 10px;
+    color: rgb(255, 255, 255);
+}
+h2{
+    font-size: 1.25rem;
+}
+
+h3{
+    font-size: 1.5rem;
+}
+h4{
+    font-size: 1.75rem;
+}
+h5{
+    font-size: 2rem;
+}
+h6{
+    font-size: 2.25rem;
+}
+
+#chanfle{
+    width: 50%;
+}
+#serbian{
+    width: 952.5px;
+}
+#dragon{
+
+}
